@@ -1,0 +1,39 @@
+container{
+    padding: 30px;
+}
+.heading{
+    margin-left: 230px;
+}
+.para{
+    margin-right: 230px;
+    margin-left: 300px;
+}
+.para1{
+    margin-left: 300px;
+    margin-right: 230px;
+}
+.color{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color:beige;
+    border-width: 0px;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    padding: 8px;
+    font-size: 15px;
+    
+}
+
+  .website{
+    font-size:large;
+    padding-left: 280px;
+    padding-top: 100px;
+  }

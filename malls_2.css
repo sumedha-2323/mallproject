@@ -1,0 +1,141 @@
+
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqNmKYqE-wHWSjNbY2moXR9UJ97K6eMSrCw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    padding: 8px;
+    font-size: 15px;
+    
+}
+.main-heading{
+    margin: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+    
+}
+.GVK{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    
+    
+}
+.image1{
+    padding: 10px;
+}
+.heading1{
+    font-size: large;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: black;
+}
+.para1{
+    padding: 15px;
+    width: 500px;
+    color: black;
+
+}
+.Sujana{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.image2{
+    padding: 10px;
+}
+.para2{
+    padding: 15px;
+    width: 500px;
+    color: black;
+
+}
+.City{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.image3{
+    padding: 10px;
+}
+.para3{
+    padding: 15px;
+    width: 500px;
+    color:black;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.Trinity{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.hyd{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.next{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.checked {
+    color: orange;
+    
+  }
+  .rating{
+    padding-left: 3px;
+  }
